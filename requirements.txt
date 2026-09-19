@@ -3,4 +3,5 @@ numpy
 typing
 Scikit-learn
 matplotlib
+dill
 #-e .
